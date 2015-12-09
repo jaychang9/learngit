@@ -5,3 +5,4 @@ Git tracks changes of files.
 My stupid boss still prefer SVN.
 Let's use Git AND simple.
 Hello world!
+develop a new fuction
